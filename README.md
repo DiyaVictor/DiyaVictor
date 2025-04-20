@@ -141,26 +141,6 @@ const ansley = {
 - 🎯 Top ranks in competitive programming competitions
 - 🔥 Active hackathon participant with proven problem-solving skills
 
-## <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="40"> Certifications
-
-<!-- Modern Certificate Cards -->
-<div align="center">
-  <table style="border: none; font-family: 'Inter', sans-serif;">
-    <tr>
-      <td style="font-family: 'Inter', sans-serif;">AWS Academy Introduction to Cloud (2024)</td>
-    </tr>
-    <tr>
-      <td style="font-family: 'Inter', sans-serif;">Artificial Intelligence with Machine Learning Workshop – IISc Bangalore (2024)</td>
-    </tr>
-    <tr>
-     <td style="font-family: 'Inter', sans-serif;">Fundamentals of Responsible Generative AI – Microsoft (2024)</td>
-    </tr>
-    <tr>
-      <td><img src="https://media.giphy.com/media/MeBEWdGdmMxpCYgcNp/giphy.gif" width="50" alt="Android" /></td>
-      <td style="font-family: 'Inter', sans-serif;">Android Development Workshop – GDSC (2023)</td>
-    </tr>
-  </table>
-</div>
 
 <!-- Modern divider -->
 <div align="center">
