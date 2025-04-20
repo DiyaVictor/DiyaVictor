@@ -133,8 +133,7 @@ const ansley = {
 ## <img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="40"> Achievements
 
 <div align="center">
-  <!-- Modern trophy display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DiyaVictor&theme=nord&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  
 </div>
 
 - 🏆 Finalist in Honor Code Hackathon, Pravega XI - IISc Bangalore (2025)
@@ -171,7 +170,7 @@ const ansley = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling&reversal=true"/>
 </div>
 
-## <img src="https://media.giphy.com/media/oFDSjMfe11iiOgQRfY/giphy.gif" width="40"> My Contributions
+
 
 <div align="center">
   <!-- Modern contribution graph -->
