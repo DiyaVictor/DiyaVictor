@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;React+%2B+Node.js+Enthusiast;Mobile+App+Developer;AI+%26+ML+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
   
+  <!-- Animated Coder Girl with Pink Hair -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Girl Animation" />
+  
   <br/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diyavictor22)
@@ -30,6 +33,10 @@ const ansley = {
 };
 ```
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -52,6 +59,15 @@ const ansley = {
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
 </div>
 
+<!-- Animated Skills Bar -->
+<div align="center">
+  <h3>💪 Skills Progress</h3>
+  <img src="https://progress-bar.dev/90/?title=JavaScript&width=200&color=FF6F00" alt="JavaScript Skill" />
+  <img src="https://progress-bar.dev/85/?title=React&width=200&color=61DAFB" alt="React Skill" />
+  <img src="https://progress-bar.dev/80/?title=Node.js&width=200&color=6DA55F" alt="Node.js Skill" />
+  <img src="https://progress-bar.dev/75/?title=Python&width=200&color=3670A0" alt="Python Skill" />
+</div>
+
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -59,6 +75,8 @@ const ansley = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=CodeChoreo&theme=tokyonight" alt="CodeChoreo" />
   </a>
  
+  <!-- Add project animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 📈 GitHub Stats
@@ -70,6 +88,11 @@ const ansley = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiyaVictor&theme=radical" alt="GitHub Streak" />
+</div>
+
+<!-- Animated Spotify Live Activity -->
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kfuzx63dc2ek7xzz4tg6h2u4rm&cover_image=true&theme=novatorem" alt="Spotify Live Activity" />
 </div>
 
 ## 🏅 Achievements
@@ -92,12 +115,22 @@ const ansley = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiyaVictor&theme=monokai" alt="Contribution Graph" />
 </div>
 
+<!-- 3D Contributions Chart -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=DiyaVictor&theme=react-dark" alt="Activity Graph" />
+</div>
+
 ## 🌱 Currently Learning
 
 - Advanced Cloud Architecture
 - Microservices and Serverless Computing
 - Deep Learning and Neural Networks
 - DevOps and CI/CD Pipeline Optimization
+
+<!-- Skills Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated Skills" width="500" />
+</div>
 
 ## 📫 Connect With Me
 
@@ -108,11 +141,18 @@ const ansley = {
   <a href="mailto:diyavictor22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
+  <!-- Pink-haired Coder Girl SVG -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Girl Footer" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DiyaVictor&color=blueviolet&style=flat-square" alt="Profile Views" />
+  
+  <!-- Glowing Text Effect -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=4000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+💖;Let's+build+something+amazing+together!" alt="Thanks" />
+  </p>
 </div>
-
