@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Ansley Diya ✨</h1>
+  <h1>✨ Hello World, I'm Ansley Diya ✨</h1>
   <h3><em>Building digital experiences that matter</em></h3>
   
   <!-- Modern typing effect with sleek font -->
@@ -62,39 +62,6 @@ const ansley = {
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" alt="CSS" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" alt="Git" />
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50" alt="GitHub" />
-</div>
-
-<!-- Modern Skills Visualization -->
-<div align="center">
-  <h3 style="font-family: 'Space Grotesk', sans-serif;">💪 Skills</h3>
-  
-  <!-- Clean, modern skill bars -->
-  <table style="border: none; font-family: 'Inter', sans-serif;">
-    <tr>
-      <td>JavaScript</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=400&color=6366F1" alt="JavaScript" />
-      </td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td>
-        <img src="https://progress-bar.dev/85/?width=400&color=38BDF8" alt="React" />
-      </td>
-    </tr>
-    <tr>
-      <td>Node.js</td>
-      <td>
-        <img src="https://progress-bar.dev/80/?width=400&color=4ADE80" alt="Node.js" />
-      </td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>
-        <img src="https://progress-bar.dev/75/?width=400&color=A78BFA" alt="Python" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- Modern Glass Morphism Cards -->
@@ -260,6 +227,7 @@ const ansley = {
   
   <!-- Modern typography for closing message -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&color=F472B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+💖;Let's+build+something+amazing+together!" alt="Thanks" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@600&size=30&duration=4000&color=F472B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+💖;Let's+build+something+amazing+together!" alt="$ sudo make me a coffee
+☕ command not found. Did you mean: ‘get_it_yourself’? />
   </p>
 </div>
