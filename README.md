@@ -58,26 +58,8 @@ const ansley = {
   <a href="https://github.com/DiyaVictor/CodeChoreo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=CodeChoreo&theme=tokyonight" alt="CodeChoreo" />
   </a>
-  <a href="https://github.com/DiyaVictor/WanderlustWingman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=WanderlustWingman&theme=tokyonight" alt="WanderlustWingman" />
-  </a>
+ 
 </div>
-
-### CodeChoreo
-Real-time collaborative code editor with session-based rooms, synchronization, syntax highlighting, and live code execution.
-**Tech Stack:** React, TypeScript, Node.js, Socket.io
-
-### Wanderlust Wingman
-AI-driven travel planner app featuring itinerary management, interactive maps, and real-time expense tracking.
-**Tech Stack:** React Native, Firebase, Gemini API, Google Places API
-
-### Ratings and Review System
-Secure full-stack platform for user reviews and feedback with advanced authentication.
-**Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL
-
-### Smart Shoes for the Blind
-IoT-based footwear with obstacle detection to improve navigation for visually impaired users.
-**Tech Stack:** Arduino, IoT sensors
 
 ## 📈 GitHub Stats
 
