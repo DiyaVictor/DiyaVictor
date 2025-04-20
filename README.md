@@ -142,8 +142,6 @@ const ansley = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <!-- Pink-haired Coder Girl SVG -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding Girl Footer" />
 </div>
 
 ---
