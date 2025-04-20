@@ -7,12 +7,12 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diyavictor22)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyavictor22@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/DiyaVictor)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://diyavictor.github.io/)
 </div>
 
 ## 🚀 About Me
 
-Software Engineer with a passion for creating responsive, user-centric applications and exploring emerging technologies. Currently pursuing my Bachelor's in Computer Science Engineering (with Honors) at MVJ College of Engineering, Bangalore.
+Software Engineer with a passion for creating responsive, user-centric applications and exploring emerging technologies. 
 
 ```javascript
 const ansley = {
@@ -134,10 +134,3 @@ IoT-based footwear with obstacle detection to improve navigation for visually im
   <img src="https://komarev.com/ghpvc/?username=DiyaVictor&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
-<!--
-**Note:** To make this README work properly on your GitHub profile:
-1. Create a repository with the same name as your GitHub username
-2. Copy this content into a README.md file in that repository
-3. Replace "DiyaVictor" with your actual GitHub username
-4. Add your actual repository names for the featured projects section
--->
