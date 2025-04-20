@@ -244,8 +244,7 @@ const ansley = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&fontFamily=Inter" alt="Gmail" />
   </a>
   
-  <!-- Modern styled coder girl -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="border-radius:20px; box-shadow: 0 10px 30px rgba(255, 105, 180, 0.3);" alt="Coding Girl Footer" />
+  
 </div>
 
 <!-- Final divider -->
