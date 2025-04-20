@@ -41,7 +41,7 @@ const ansley = {
     ai_ml: ["TensorFlow", "Generative AI"]
   },
   currentFocus: "Building scalable applications with clean architecture",
-  funFact: "I can solve a Sudoku puzzle faster than my algorithm!"
+  funFact: "Once wrote code so clean, my laptop cried."
 };
 ```
 
@@ -147,16 +147,13 @@ const ansley = {
 <div align="center">
   <table style="border: none; font-family: 'Inter', sans-serif;">
     <tr>
-      <td><img src="https://media.giphy.com/media/XG3cI5CIUbCqXhG8lx/giphy.gif" width="50" alt="AWS" /></td>
       <td style="font-family: 'Inter', sans-serif;">AWS Academy Introduction to Cloud (2024)</td>
     </tr>
     <tr>
-      <td><img src="https://media.giphy.com/media/QVs6OmwbbGvSPZFZDG/giphy.gif" width="50" alt="AI ML" /></td>
       <td style="font-family: 'Inter', sans-serif;">Artificial Intelligence with Machine Learning Workshop – IISc Bangalore (2024)</td>
     </tr>
     <tr>
-      <td><img src="https://media.giphy.com/media/VHI6svvv1VeogBLQNk/giphy.gif" width="50" alt="Microsoft" /></td>
-      <td style="font-family: 'Inter', sans-serif;">Fundamentals of Responsible Generative AI – Microsoft (2024)</td>
+     <td style="font-family: 'Inter', sans-serif;">Fundamentals of Responsible Generative AI – Microsoft (2024)</td>
     </tr>
     <tr>
       <td><img src="https://media.giphy.com/media/MeBEWdGdmMxpCYgcNp/giphy.gif" width="50" alt="Android" /></td>
