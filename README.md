@@ -117,16 +117,10 @@ const ansley = {
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/5ZzXRm7zRD2JGnIw8R/giphy.gif" width="60" alt="AI" style="filter: drop-shadow(0 0 10px rgba(52, 211, 153, 0.7));" />
-      </td>
-      <td style="font-family: 'DM Sans', sans-serif; font-weight: 600; font-size: 18px;">
+        <td style="font-family: 'DM Sans', sans-serif; font-weight: 600; font-size: 18px;">
         <span style="background: linear-gradient(90deg, #34D399, #10B981); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">AI & Machine Learning</span>
       </td>
-      <td>
-        <img src="https://media.giphy.com/media/vLpclx5D0oGT92pZN5/giphy.gif" width="60" alt="Cloud" style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.7));" />
-      </td>
-      <td style="font-family: 'DM Sans', sans-serif; font-weight: 600; font-size: 18px;">
+        <td style="font-family: 'DM Sans', sans-serif; font-weight: 600; font-size: 18px;">
         <span style="background: linear-gradient(90deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Cloud Computing</span>
       </td>
     </tr>
@@ -146,8 +140,8 @@ const ansley = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=CodeChoreo&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=6366F1&icon_color=F472B6" alt="CodeChoreo" style="border-radius: 10px; filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
   </a>
   
-  <!-- Add an additional project card as example -->
-  <a href="https://github.com/DiyaVictor/ReactNativeAwesome">
+ 
+  <a href="https://github.com/DiyaVictor/Wanderlust-wingman">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=ReactNativeAwesome&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=6366F1&icon_color=F472B6" alt="ReactNativeAwesome" style="border-radius: 10px; filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
   </a>
  
@@ -191,8 +185,7 @@ const ansley = {
 
 <div align="center">
   <!-- Animated trophy display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DiyaVictor&theme=nord&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" style="filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.5));" />
-</div>
+ </div>
 
 - 🏆 Finalist in Honor Code Hackathon, Pravega XI - IISc Bangalore (2025)
 - 🥇 Finalist in Hack4Change'24 – Google and The Nudge Institute (2024)
