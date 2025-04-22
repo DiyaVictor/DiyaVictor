@@ -139,13 +139,7 @@ const ansley = {
   <a href="https://github.com/DiyaVictor/CodeChoreo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=CodeChoreo&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=6366F1&icon_color=F472B6" alt="CodeChoreo" style="border-radius: 10px; filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
   </a>
-  
- 
-  <a href="https://github.com/DiyaVictor/Wanderlust-wingman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiyaVictor&repo=ReactNativeAwesome&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=6366F1&icon_color=F472B6" alt="ReactNativeAwesome" style="border-radius: 10px; filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
-  </a>
- 
-  <!-- Enhanced contribution snake with glow -->
+<!-- Enhanced contribution snake with glow -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
