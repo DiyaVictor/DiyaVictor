@@ -193,11 +193,6 @@ const ansley = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&animation=twinkling&reversal=true"/>
 </div>
 
-<div align="center">
-  <!-- Enhanced contribution graph with glow -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiyaVictor&theme=github_dark" alt="Contribution Graph" style="filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
-</div>
-
 <!-- Enhanced activity graph with glow -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiyaVictor&theme=react-dark&hide_border=true&bg_color=0D1117&line=6366F1&point=F472B6&area=true&area_color=6366F180" alt="Activity Graph" style="filter: drop-shadow(0 0 8px rgba(244, 114, 182, 0.4));" />
@@ -229,10 +224,6 @@ const ansley = {
   </a>
   <a href="mailto:diyavictor22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&fontFamily=Inter" alt="Gmail" style="margin-right:15px; filter: drop-shadow(0 0 5px rgba(209, 72, 54, 0.7));" />
-  </a>
-  <a href="https://twitter.com/DiyaVictor22">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&fontFamily=Inter" alt="Twitter" style="margin-right:15px; filter: drop-shadow(0 0 5px rgba(29, 161, 242, 0.7));" />
-  </a>
   <a href="https://diyavictor.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-5C64F4?style=for-the-badge&logo=About.me&logoColor=white&fontFamily=Inter" alt="Portfolio" style="filter: drop-shadow(0 0 5px rgba(92, 100, 244, 0.7));" />
   </a>
