@@ -171,10 +171,6 @@ const ansley = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiyaVictor&theme=transparent&hide_border=true&stroke=6366F1&ring=F472B6&fire=F472B6&currStreakNum=FFFFFF&sideNums=6366F1&currStreakLabel=F472B6&sideLabels=FFFFFF&dates=A5B4FC" alt="GitHub Streak" style="filter: drop-shadow(0 0 8px rgba(244, 114, 182, 0.4));" />
 </div>
 
-<!-- Enhanced music display with glow -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kfuzx63dc2ek7xzz4tg6h2u4rm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" width="400" style="border-radius: 10px; filter: drop-shadow(0 0 10px rgba(30, 215, 96, 0.6));" />
-</div>
 
 <!-- Glowing animated divider -->
 <div align="center">
@@ -184,8 +180,7 @@ const ansley = {
 ## <img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="40"> Achievements
 
 <div align="center">
-  <!-- Animated trophy display -->
- </div>
+</div>
 
 - 🏆 Finalist in Honor Code Hackathon, Pravega XI - IISc Bangalore (2025)
 - 🥇 Finalist in Hack4Change'24 – Google and The Nudge Institute (2024)
