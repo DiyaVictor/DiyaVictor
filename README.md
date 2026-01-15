@@ -146,26 +146,8 @@ const ansley = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 5px rgba(244, 114, 182, 0.6));">
   </picture>
 </div>
-
-<!-- Animated gradient divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header&animation=twinkling"/>
-</div>
-
-## <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="40"> GitHub Stats
-
-<div align="center">
-  <!-- Enhanced stat cards with glow effects -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DiyaVictor&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&text_color=FFFFFF&icon_color=F472B6" alt="GitHub Stats" height="170" style="filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaVictor&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" height="170" style="filter: drop-shadow(0 0 8px rgba(99, 102, 241, 0.4));" />
-</div>
-
-<div align="center">
-  <!-- Enhanced streak stats with glow effects -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiyaVictor&theme=transparent&hide_border=true&stroke=6366F1&ring=F472B6&fire=F472B6&currStreakNum=FFFFFF&sideNums=6366F1&currStreakLabel=F472B6&sideLabels=FFFFFF&dates=A5B4FC" alt="GitHub Streak" style="filter: drop-shadow(0 0 8px rgba(244, 114, 182, 0.4));" />
-</div>
-
-
+  
+  
 <!-- Glowing animated divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="filter: drop-shadow(0 0 5px rgba(244, 114, 182, 0.5));" />
